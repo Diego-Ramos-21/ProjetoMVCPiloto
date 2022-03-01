@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Race.DATA", "Race.DATA\Race.DATA.csproj", "{539582F5-E576-42B9-9799-1619F3B57ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race.WEB", "Race.WEB\Race.WEB.csproj", "{EA2F4229-3434-4707-9E63-AB3483CF8A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539582F5-E576-42B9-9799-1619F3B57ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539582F5-E576-42B9-9799-1619F3B57ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539582F5-E576-42B9-9799-1619F3B57ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539582F5-E576-42B9-9799-1619F3B57ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2F4229-3434-4707-9E63-AB3483CF8A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2F4229-3434-4707-9E63-AB3483CF8A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2F4229-3434-4707-9E63-AB3483CF8A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2F4229-3434-4707-9E63-AB3483CF8A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFEDB067-369D-4A14-A1A1-68DB9C29ADA2}
+	EndGlobalSection
+EndGlobal
